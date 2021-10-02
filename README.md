@@ -10,4 +10,4 @@ The comments are located at the top of the program. These comments inform the us
 
 The Code
 
-The program starts off by asking the user for the variables firstNember, secondNumber, and thirdNumber. 
+The program starts off by asking the user to input the variables firstNember, secondNumber, and thirdNumber. 
