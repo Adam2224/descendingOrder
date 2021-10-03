@@ -12,7 +12,7 @@ thirdNumber = int(input("Enter another number: "))
 if firstNumber > secondNumber > thirdNumber:
     print("Here are your numbers in descending order:", firstNumber,",",secondNumber,",",thirdNumber)
 elif firstNumber > thirdNumber > secondNumber:
-      print("Here are your numbers in ascending order:", firstNumber, ",", thirdNumber, ",", secondNumber)
+      print("Here are your numbers in descending order:", firstNumber, ",", thirdNumber, ",", secondNumber)
 elif secondNumber > firstNumber > thirdNumber:
       print("Here are your numbers in descending order:", secondNumber, ",", firstNumber, ",", thirdNumber)
 elif secondNumber > thirdNumber > firstNumber:
